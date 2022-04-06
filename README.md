@@ -1,6 +1,6 @@
 # FullCycle
    Sobre o Sistema<br>
-   Dev Code Pix
+   Code Pix - Transações de um banco para o outro gerenciadas pelo goLang.
 <hr>
    
    # Tecnologias Utilizadas;
