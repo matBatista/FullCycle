@@ -1,14 +1,14 @@
 # FullCycle
-   <h2> Sobre o Sistema
+   Sobre o Sistema<br>
    Dev Code Pix
 <hr>
    
    # Tecnologias Utilizadas;
    
-   nest.js no backend
+   nest.js no backend <br>
    next.js no frontend
 
    golang
 
-   gRPC
+   gRPC <br>
    apahce Kafka
